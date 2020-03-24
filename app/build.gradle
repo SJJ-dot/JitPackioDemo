@@ -36,6 +36,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
 //    implementation project(":single")
-    implementation "com.github.SJJ-dot:JitPackioDemo:master-SNAPSHOT"
+    implementation "com.github.SJJ-dot.JitPackioDemo:single:m-lib-SNAPSHOT"
 
 }
