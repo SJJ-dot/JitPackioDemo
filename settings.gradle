@@ -1,3 +1,4 @@
 rootProject.name='JitPackioDemo'
 include ':app'
 include ':single'
+include ':lib2'
