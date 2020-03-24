@@ -3,6 +3,7 @@ package com.sjianjun.jitpackio
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.sjianjun.jitpackio.single.TestLib
+import com.sjianjun.lib2.TestLib2
 
 class MainActivity : AppCompatActivity() {
 
@@ -11,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         TestLib.print()
+        TestLib2.print()
     }
 }
