@@ -40,5 +40,6 @@ dependencies {
 //    implementation project(":single")
     implementation "com.github.SJJ-dot.JitPackioDemo:single:m-lib-SNAPSHOT"
     implementation "com.github.SJJ-dot.JitPackioDemo:lib2:m-lib-SNAPSHOT"
+    implementation "com.github.SJJ-dot.JitPackioDemo:lib3:m-lib-SNAPSHOT"
 
 }
